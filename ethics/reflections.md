@@ -1,3 +1,7 @@
+# Name:
+# Date: 9 Sept 2019
+
+
 #### Ethical considerations
 
 You are to read the accompanying article and to respond to the three discussion questions.
